@@ -10,7 +10,7 @@ L’objectif est de prédire le salaire d’un individu en fonction de ses carac
 
 ## Technologies utilisées
 - Python 3.x  
-- Google Colab  
+- Kaggle  
 - Pandas (pour la manipulation de données)  
 - NumPy (pour les calculs numériques)  
 - Scikit-learn (pour la modélisation ML)  
