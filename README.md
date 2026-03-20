@@ -27,4 +27,4 @@ L’objectif est de prédire le salaire d’un individu en fonction de ses carac
 ## Instructions pour l’exécution
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/ton-utilisateur/nom-du-depot.git
+git clone https://github.com/stephanieleurquin/Salary-prediction.git
