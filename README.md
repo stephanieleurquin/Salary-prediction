@@ -3,7 +3,7 @@
 # Salary Prediction
 
 ## Description
-Ce projet est un modèle de **prédiction de salaire** développé avec Python dans Google Colab.  
+Ce projet est un modèle de **prédiction de salaire** développé avec Python dans kaggle.  
 L’objectif est de prédire le salaire d’un individu en fonction de ses caractéristiques (par exemple : expérience, poste, compétences, etc.) en utilisant des techniques de machine learning.
 
 ---
